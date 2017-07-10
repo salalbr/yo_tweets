@@ -1,7 +1,7 @@
 yo_tweets
 ========
 
-quick example showing how to use python to search tweets. Heavily based on [python-twitter-examples](https://github.com/ideoforms/python-twitter-examples).
+Quick example showing how to use python to search tweets. Heavily based on [python-twitter-examples](https://github.com/ideoforms/python-twitter-examples).
 
 Example
 -------
@@ -27,6 +27,5 @@ Dependencies
 
 [commandr](https://github.com/tellapart/commandr) - commandr is a simple tool
 for making Python functions accessible from the command line.
-
 [twitter](https://pypi.python.org/pypi/twitter) - an API and command-line
 toolset for Twitter.
