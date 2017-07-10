@@ -23,7 +23,8 @@ Search complete: 0.098 seconds
 
 Dependencies
 -------
-Modules:
+**Modules**:
+
 [commandr](https://github.com/tellapart/commandr) - commandr is a simple tool
 for making Python functions accessible from the command line.
 
